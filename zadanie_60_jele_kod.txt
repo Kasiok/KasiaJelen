@@ -1,0 +1,16 @@
+<html>
+<head>
+<LINK href="zadanie_60_jele.css" rel="stylesheet"type="text/CSS">
+</head>
+<body>
+
+<div id="blok1_jelen"> Blok 1 </div> <br>
+
+<div id="blok2_jelen"> Blok 2 </div> <br>
+
+<div id="blok3_jelen"> Blok 3 </div> <br>
+
+</body>
+</html>
+<!--hover; pseudoklasa która powoduje aktywowanie elementu po naruszeniu na niego kursorem-->
+<!--Katarzyna Jelen-->

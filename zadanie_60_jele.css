@@ -1,0 +1,30 @@
+div#blok1_jelen
+{
+ width: 609px;
+ background-color: green;
+ }
+div#blok2_jelen 
+{
+ width: 609px;
+ background-color: green; 
+ }
+div#blok3_jelen 
+{
+ width: 609px;
+ background-color: green; 
+ }
+div#blok1_jelen:hover 
+{
+font-size: 19mm;
+background-color: #f5c71a; 
+}
+div#blok2_jelen:hover 
+{
+font-size: 19mm;
+background-color: red; 
+}
+div#blok3_jelen:hover 
+{
+font-size: 19mm;
+background-color: blue; 
+}
